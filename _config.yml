@@ -25,11 +25,11 @@ author:
   avatar           : "IH7A0039.jpg"
   name             : "Zhihang Yu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Be a happy and nice person"
+  location         : "China"
+  employer         : "Nanjing University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhihangyu@qq.com" 
 
   # Academic websites
   academia         : # URL
