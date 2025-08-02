@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: /yzh-dot.github.io/publications/
+    url: /publications/
 
   - title: "Talks"
     url: /talks/    
